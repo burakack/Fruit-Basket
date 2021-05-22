@@ -1,0 +1,10 @@
+C:\Users\burak\source\repos\Meyvesepeti\bin\Debug\Meyvesepeti.exe.config
+C:\Users\burak\source\repos\Meyvesepeti\bin\Debug\Meyvesepeti.exe
+C:\Users\burak\source\repos\Meyvesepeti\bin\Debug\Meyvesepeti.pdb
+C:\Users\burak\source\repos\Meyvesepeti\obj\Debug\Meyvesepeti.csprojAssemblyReference.cache
+C:\Users\burak\source\repos\Meyvesepeti\obj\Debug\Meyvesepeti.Form1.resources
+C:\Users\burak\source\repos\Meyvesepeti\obj\Debug\Meyvesepeti.Properties.Resources.resources
+C:\Users\burak\source\repos\Meyvesepeti\obj\Debug\Meyvesepeti.csproj.GenerateResource.cache
+C:\Users\burak\source\repos\Meyvesepeti\obj\Debug\Meyvesepeti.csproj.CoreCompileInputs.cache
+C:\Users\burak\source\repos\Meyvesepeti\obj\Debug\Meyvesepeti.exe
+C:\Users\burak\source\repos\Meyvesepeti\obj\Debug\Meyvesepeti.pdb
